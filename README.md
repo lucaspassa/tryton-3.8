@@ -53,5 +53,10 @@ Requerimientos para ejecutar servidor y cliente
     * Optional: bcrypt (https://github.com/pyca/bcrypt)
     * Optional: mock (http://www.voidspace.org.uk/python/mock/)
 
+Configuración
+==========
+
+http://wiki.tryton-erp.es/SAO
+
 
 
